@@ -1,11 +1,16 @@
 # news-image-20261123 — The World in One Day
 
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/xiangbingxi/makefun-news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/xiangbingxi/makefun-news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
+Built for make.fun's ["Sum up 23 November's world news in one image" bounty](https://make.fun/bounty/news-image-20261123), $100 in USDC.
+
 One image summing up the world's news of **Monday, 23 November 2026**:
 36 stories across 7 regions, the day's 6 biggest numbers, 3 illustrated
 headlines, 10 more illustrated stories, a world map with 13 numbered pins,
-a region bar, a DATE CHECK box for look-alike events from other days, and
-a sources line. Drawn by hand with code (PIL flat vector style) — no
-photos, no wire images.
+a region bar, and a sources line. Drawn by hand with code (PIL flat vector
+style) — no photos, no wire images.
 
 ## Files
 
